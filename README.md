@@ -7,7 +7,9 @@ A collection of simple JavaScript array shuffling methods.
 ### Using npm
 ```bash
 npm install js-shufflers
-
+```
+### Basic Usage
+```
 const Shufflers = require('js-shufflers');
 
 let arr = [1, 2, 3, 4, 5];
@@ -18,4 +20,5 @@ console.log('Lodash Shuffle:', Shufflers.lodashShuffle([...arr]));
 console.log('Custom Shuffle:', Shufflers.customShuffle([...arr]));
 console.log('Recursive Shuffle:', Shufflers.recursiveShuffle([...arr]));
 console.log('While Loop Shuffle:', Shufflers.whileShuffle([...arr]));
+```
 
