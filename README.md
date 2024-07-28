@@ -8,6 +8,7 @@ A collection of simple JavaScript array shuffling methods.
 ```bash
 npm install js-shufflers
 
+```javascript
 const Shufflers = require('js-shufflers');
 
 let arr = [1, 2, 3, 4, 5];
