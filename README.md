@@ -14,11 +14,11 @@ Convenient and reliable, leveraging the widely-used Lodash library for easy shuf
 #### Custom forEach Shuffle: 
 Offers flexibility and control, useful for custom shuffling logic.
 
-#### 
-Recursive Shuffle: An educational approach demonstrating recursion, but less efficient and may risk stack overflow on large arrays.
+#### Recursive Shuffle: 
+An educational approach demonstrating recursion, but less efficient and may risk stack overflow on large arrays.
 
-#### 
-While Loop Shuffle: Simple and efficient with O(n) complexity, offering clear control over the shuffle process.
+#### While Loop Shuffle: 
+Simple and efficient with O(n) complexity, offering clear control over the shuffle process.
 
 ## Installation
 
